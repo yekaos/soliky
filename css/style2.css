@@ -5,11 +5,15 @@ body{
   background-color: bisque;
 }
 .btn{
-  background-color: brown;
+  background-color: darkgoldenrod;
 }
 .navbar{
-  background-color: orange;
+  background-color: darkorange;
 }
 .card{
   background-color: orange;
 }
+.py-5{
+  background-color: darkorange;
+}
+
