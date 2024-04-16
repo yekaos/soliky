@@ -3,8 +3,10 @@ audio{
 }
 body{
   background-color: bisque;
+  font-size: large !important;
+  font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
 }
-.btn{
+.btn-danger{
   background-color: darkgoldenrod;
 }
 .navbar{
@@ -16,4 +18,10 @@ body{
 .py-5{
   background-color: darkorange;
 }
-
+.btn-warning{
+  background-color: brown;
+  color: whitesmoke;
+  width: 100px;
+  height: 50px;
+  text-align: center;
+}
