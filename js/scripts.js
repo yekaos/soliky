@@ -5,3 +5,20 @@
 */
 // This file is intentionally blank
 // Use this file to add JavaScript to your project
+const audioControl = document.getElementById('audio-control');
+const audioPlayer = document.querySelector('.audio-player');
+
+audioControl.addEventListener('click', () => {
+if (audioPlayer.paused) {
+    audioPlayer.play();
+} else {
+    audioPlayer.pause();
+}
+});
+window.addEventListener('scroll', function() {
+  if (window.scrollY > 0) {
+    document.body.classList.add('scrolled');
+  } else {
+    document.body.classList.remove('scrolled');
+  }
+});
