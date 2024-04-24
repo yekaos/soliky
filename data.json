@@ -1,0 +1,232 @@
+{
+    "title":"Preguntas sobre Aranjuez",
+    "id_test":"",
+    "description": "Un paseo de una hora por los monumentos más representativos de Aranjuez",
+    "author": "Kyllian Arribas Garcia",
+    "img_feature":{
+        "url": "./img/palacio.jpg",
+        "alt": "Vista del Palacio de Aranjuez"
+    },
+    "questions" : [[
+        {
+        "id": 1,
+        "question": "¿Cuándo fue inaugurado el Ayuntamiento de Aranjuez?",
+        "answers":{
+            "a": "1754",
+            "b": "1809",
+            "c": "1759",
+            "d": "1845"
+        },
+        "results":{
+            "a": false,
+            "b": true,
+            "c": false,
+            "d": false
+        },
+        "img_question":{
+            "url": "./img/ayuntamiento.jpg",
+            "alt": "Ayuntamiento de Aranjuez",
+            "desc": "Vista completa del Ayuntamiento de Aranjuez"
+        },
+        "hint": "El número termina en 9",
+        "curiosity": ""
+    },{
+    "id": 2,
+    "question": "¿Con qué materiales está construida la Casa de Infantes?",
+    "answers":{
+        "a": "Ladrillo, Acero y Hormigón",
+        "b": "Madera, Ladrillo y Acero",
+        "c": "Hormigón y Acero",
+        "d": "Piedra y Ladrillo"
+    },
+    "results":{
+        "a": false,
+        "b": false,
+        "c": false,
+        "d": true
+    },
+    "img_question":{
+        "url": "./img/",
+        "alt": "",
+        "desc": ""
+    },
+    "hint": "",
+    "curiosity": ""
+    },{
+    "id": 3,
+    "question": "¿Quién se encargó de construir el Teatro Real Carlos III?",
+    "answers":{
+        "a": "Juan Alcobo Jimenez",
+        "b": "Jaime Marquet",
+        "c": "José Miguel de Alacena",
+        "d": "Piamonte Rodriguez"
+    },
+    "results":{
+        "a": false,
+        "b": true,
+        "c": false,
+        "d": false
+    },
+    "img_question":{
+        "url": "./img/",
+        "alt": "",
+        "desc": ""
+    },
+    "hint": "",
+    "curiosity": ""
+    },{
+    "id": 4,
+    "question": "¿En qué se ha convertido el antiguo hospital de San Carlos?",
+    "answers":{
+        "a": "En un Convento",
+        "b": "En un Mercado",
+        "c": "En una Universidad",
+        "d": "En una Iglesia Católica"
+    },
+    "results":{
+        "a": false,
+        "b": false,
+        "c": true,
+        "d": false
+    },
+    "img_question":{
+        "url": "./img/",
+        "alt": "",
+        "desc": ""
+    },
+    "hint": "",
+    "curiosity": ""
+    },{
+    "id": 5,
+    "question": "¿Qué estilo arquitectónico tiene el Palacio de Medinaceli?",
+    "answers":{
+        "a": "Neoclásico",
+        "b": "Barroco",
+        "c": "Clásico",
+        "d": "Rococo"
+    },
+    "results":{
+        "a": true,
+        "b": false,
+        "c": false,
+        "d": false
+    },
+    "img_question":{
+        "url": "./img/",
+        "alt": "",
+        "desc": ""
+    },
+    "hint": "",
+    "curiosity": ""
+    },{
+    "id": 6,
+    "question": "¿Cuál es la ubicación exacta del Hostal Castilla en Aranjuez?",
+    "answers":{
+        "a": "Plaza de la Constitución",
+        "b": "Calle de la Reina",
+        "c": "Paseo de la Estación",
+        "d": "Carrera de Andalucía"
+    },
+    "results":{
+        "a": false,
+        "b": false,
+        "c": false,
+        "d": true
+    },
+    "img_question":{
+        "url": "./img/",
+        "alt": "",
+        "desc": ""
+    },
+    "hint": "",
+    "curiosity": ""
+    },{
+    "id": 7,
+    "question": "¿Qué tipo de productos se pueden encontrar en el Mercado de Abastos?",
+    "answers":{
+        "a": "Productos frescos",
+        "b": "Ropa",
+        "c": "Artesanías",
+        "d": "Todos los anteriores"
+    },
+    "results":{
+        "a": false,
+        "b": false,
+        "c": false,
+        "d": true
+    },
+    "img_question":{
+        "url": "./img/",
+        "alt": "",
+        "desc": ""
+    },
+    "hint": "",
+    "curiosity": ""
+    },{
+    "id": 8,
+    "question": "¿En qué año fue creado el Palacio de Medinaceli de Aranjuez?",
+    "answers":{
+        "a": "1773",
+        "b": "1805",
+        "c": "1493",
+        "d": "1902"
+    },
+    "results":{
+        "a": true,
+        "b": false,
+        "c": false,
+        "d": false
+    },
+    "img_question":{
+        "url": "./img/",
+        "alt": "",
+        "desc": ""
+    },
+    "hint": "El número termina en 3",
+    "curiosity": ""
+    },{
+    "id": 9,
+    "question": "¿Qué edificio importante tiene enfrente el Mercado de Abastos?",
+    "answers":{
+        "a": "Hospital de San Carlos",
+        "b": "Casa de Oficios",
+        "c": "El Ayuntamiento",
+        "d": "Palacio de Godoy"
+    },
+    "results":{
+        "a": false,
+        "b": false,
+        "c": true,
+        "d": false
+    },
+    "img_question":{
+        "url": "./img/",
+        "alt": "",
+        "desc": ""
+    },
+    "hint": "",
+    "curiosity": ""
+    },{
+    "id": 10,
+    "question": "¿Qué característica distintiva tiene la fachada de la casa de Rusiñol en Aranjuez?",
+    "answers":{
+        "a": "Murales de cerámica",
+        "b": "Balcón de hierro forjado",
+        "c": "Escudos nobiliarios",
+        "d": "Tejado de pizarra"
+    },
+    "results":{
+        "a": false,
+        "b": true,
+        "c": false,
+        "d": false
+    },
+    "img_question":{
+        "url": "./img/",
+        "alt": "",
+        "desc": ""
+    },
+    "hint": "",
+    "curiosity": ""
+    }
+    ]]}
