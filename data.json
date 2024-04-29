@@ -28,13 +28,13 @@
             "alt": "Ayuntamiento de Aranjuez",
             "desc": "Vista completa del Ayuntamiento de Aranjuez"
         },
-        "hint": "El número termina en 9",
-        "curiosity": ""
+        "hint": "El número termina en 9.",
+        "curiosity": "Este edificio combina diferentes estilos arquitectónicos, incluyendo el renacentista y el neoclásico, lo que refleja la evolución histórica y artística de Aranjuez a lo largo de los siglos."
     },{
     "id": 2,
     "question": "¿Con qué materiales está construida la Casa de Infantes?",
     "answers":{
-        "a": "Ladrillo, Acero y Hormigón",
+        "a": "Acero y Hormigón",
         "b": "Madera, Ladrillo y Acero",
         "c": "Hormigón y Acero",
         "d": "Piedra y Ladrillo"
@@ -46,12 +46,12 @@
         "d": true
     },
     "img_question":{
-        "url": "./img/",
-        "alt": "",
-        "desc": ""
+        "url": "./img/casainfantes.jpg",
+        "alt": "Casa de Infantes",
+        "desc": "Vista de la Casa de Infantes"
     },
-    "hint": "",
-    "curiosity": ""
+    "hint": "La respuesta correcta contiene Ladrillo.",
+    "curiosity": "Fue construida en el siglo XVIII por orden del rey Fernando VI como residencia para sus hermanos"
     },{
     "id": 3,
     "question": "¿Quién se encargó de construir el Teatro Real Carlos III?",
@@ -68,12 +68,12 @@
         "d": false
     },
     "img_question":{
-        "url": "./img/",
-        "alt": "",
-        "desc": ""
+        "url": "./img/teatroreal.jpg",
+        "alt": "Teatro Real de Aranjuez",
+        "desc": "Vista del Teatro Real de Aranjuez"
     },
-    "hint": "",
-    "curiosity": ""
+    "hint": "Su nombre empieza por J y no es compuesto.",
+    "curiosity": "El teatro ha sido testigo de importantes acontecimientos históricos, como la visita de personajes ilustres y la celebración de eventos culturales de gran relevancia para la comunidad."
     },{
     "id": 4,
     "question": "¿En qué se ha convertido el antiguo hospital de San Carlos?",
@@ -90,12 +90,12 @@
         "d": false
     },
     "img_question":{
-        "url": "./img/",
-        "alt": "",
-        "desc": ""
+        "url": "./img/hospitalsancarlos.jpg",
+        "alt": "Hospital de San Carlos",
+        "desc": "Vista del antiguio Hospital de San Carlos"
     },
-    "hint": "",
-    "curiosity": ""
+    "hint": "Actualmente es UNA...",
+    "curiosity": "Este edificio también albergaba una capilla donde los enfermos podían recibir atención espiritual."
     },{
     "id": 5,
     "question": "¿Qué estilo arquitectónico tiene el Palacio de Medinaceli?",
@@ -112,12 +112,12 @@
         "d": false
     },
     "img_question":{
-        "url": "./img/",
-        "alt": "",
-        "desc": ""
+        "url": "./img/palaciodemedinaceli.jpg",
+        "alt": "Palacio de Medinaceli",
+        "desc": "Vista del Palacio de Medinaceli"
     },
-    "hint": "",
-    "curiosity": ""
+    "hint": "No pertenece ni al Barroco ni al Clásico.",
+    "curiosity": "Fue construido en el siglo XVI como una residencia de recreo para la familia de los duques de Medinaceli, una de las familias nobles más prominentes de España."
     },{
     "id": 6,
     "question": "¿Cuál es la ubicación exacta del Hostal Castilla en Aranjuez?",
@@ -134,12 +134,12 @@
         "d": true
     },
     "img_question":{
-        "url": "./img/",
-        "alt": "",
-        "desc": ""
+        "url": "./img/hostalcastilla.jpg",
+        "alt": "Hostal Castilla",
+        "desc": "Vista del Hostal Castilla"
     },
-    "hint": "",
-    "curiosity": ""
+    "hint": "No es ni una plaza ni un paseo.",
+    "curiosity": "Su arquitectura tradicional, que refleja el encanto y la autenticidad de la España del siglo XIX"
     },{
     "id": 7,
     "question": "¿Qué tipo de productos se pueden encontrar en el Mercado de Abastos?",
@@ -156,12 +156,12 @@
         "d": true
     },
     "img_question":{
-        "url": "./img/",
-        "alt": "",
-        "desc": ""
+        "url": "./img/mercadodeabastos.jpg",
+        "alt": "Mercado de Abastos",
+        "desc": "Vista por dentro del Mercado de Abastos"
     },
-    "hint": "",
-    "curiosity": ""
+    "hint": "El mercado consiste en tiendas con diferentes tipos de productos MUY VARIADOS.",
+    "curiosity": "No fue hasta el siglo XIX cuando se construyó el edificio actual del mercado, que se inauguró en 1894"
     },{
     "id": 8,
     "question": "¿En qué año fue creado el Palacio de Medinaceli de Aranjuez?",
@@ -178,12 +178,12 @@
         "d": false
     },
     "img_question":{
-        "url": "./img/",
-        "alt": "",
-        "desc": ""
+        "url": "./img/palaciodemedinaceli.jpg",
+        "alt": "Palacio de Medinaceli",
+        "desc": "Vista del Palacio de Medinaceli"
     },
     "hint": "El número termina en 3",
-    "curiosity": ""
+    "curiosity": "El Palacio de Medinaceli albergaba una importante colección de arte, muebles y objetos de valor en su pasado"
     },{
     "id": 9,
     "question": "¿Qué edificio importante tiene enfrente el Mercado de Abastos?",
@@ -200,15 +200,15 @@
         "d": false
     },
     "img_question":{
-        "url": "./img/",
-        "alt": "",
-        "desc": ""
+        "url": "./img/plazadelayuntamiento.jpg",
+        "alt": "Plaza del Ayuntamiento",
+        "desc": "Vista a la Plaza del Ayuntamiento"
     },
-    "hint": "",
-    "curiosity": ""
+    "hint": "Mira detenidamente la imagen, es un edificio que ya hemos visto antes.",
+    "curiosity": "El Mercado de Abastos de Aranjuez ha sido objeto de varias reformas y mejoras a lo largo de los años para adaptarse a las necesidades cambiantes de los consumidores."
     },{
     "id": 10,
-    "question": "¿Qué característica distintiva tiene la fachada de la casa de Rusiñol en Aranjuez?",
+    "question": "¿Qué característica distintiva tiene la fachada de la Casa de Rusiñol en Aranjuez?",
     "answers":{
         "a": "Murales de cerámica",
         "b": "Balcón de hierro forjado",
@@ -222,11 +222,11 @@
         "d": false
     },
     "img_question":{
-        "url": "./img/",
-        "alt": "",
-        "desc": ""
+        "url": "./img/casarusinol.jpg",
+        "alt": "Casa del Rusiñol",
+        "desc": "Vista a la Casa del Rusiñol"
     },
-    "hint": "",
-    "curiosity": ""
+    "hint": "No son escudos pero se trata de un material duro, que prevalece en el tiempo.",
+    "curiosity": "El edificio alberga exposiciones temporales, eventos culturales y talleres, manteniendo viva la memoria del legado artístico de Santiago Rusiñol."
     }
     ]]}
